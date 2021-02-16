@@ -15,6 +15,6 @@ How well do you know the hexcode colors?
 * Hard Mode : 6 Options Only 1 is correct
 * Colors are randomly generated from 0 - 254 for red, green, and blue
 
-![Image of the Game](https://github.com/laiamanda/ColorGuessingGame/blob/main/color-guessing-game-image.PNG);
+![Image of the Game](https://github.com/laiamanda/ColorGuessingGame/blob/main/color-guessing-game-image.PNG)
 
 Based on Colt Steele's Udemy
